@@ -12,10 +12,10 @@ This is a **Weather App** built using **JavaScript**, **HTML5**, and **CSS3**. T
 - **WeatherAPI.com**
 
 ## 📱 Project Preview
-![Project Preview](https://example.com/weather-app-preview.jpg)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/52ea7edb-3171-4c85-bfd3-f685bb9f3413" />
 
 ## 🎥 Project Demo
-[Watch the Demo](https://github.com/user-attachments/assets/weather-app-demo.mp4)
+https://github.com/user-attachments/assets/41ddc1fe-0a33-46f9-95e4-01dd2407627c
 
 ## 🌐 API Used
 - **WeatherAPI.com**: [https://www.weatherapi.com](https://www.weatherapi.com)
